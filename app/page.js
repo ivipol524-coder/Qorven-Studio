@@ -926,7 +926,7 @@ export default function Home() {
           <img className="unsupported__logo" src="/logo.svg" width="52" height="52" alt="" />
           <h1 className="unsupported__h">Open in Chrome, Edge, or Safari</h1>
           <p className="unsupported__p">
-            <span className="unsupported__brand">TryAIToday AutoEditor</span> exports video using your
+            <span className="unsupported__brand">QorvenStudio AutoEditor</span> exports video using your
             browser’s built-in video encoder — which this browser doesn’t have.
           </p>
           <p className="unsupported__p">
