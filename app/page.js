@@ -973,7 +973,7 @@ export default function Home() {
       <header className="nav">
         <div className="nav__brand">
           <img className="brand__logo" src="/logo.svg" alt="" width="28" height="28" />
-          <span className="brand__name"><span className="brand__pre">TryAIToday</span> AutoEditor</span>
+          <span className="brand__name"><span className="brand__pre">QorvenStudio</span> AutoEditor</span>
           <span className="brand__tag">image + video · voiceover sync</span>
         </div>
         <div className="nav__links">
