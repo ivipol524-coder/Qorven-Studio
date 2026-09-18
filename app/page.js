@@ -994,7 +994,7 @@ export default function Home() {
             href="https://chromewebstore.google.com/detail/bcmmekkamenpjoogmegiffgemlgikbgf?utm_source=item-share-cb"
             target="_blank"
             rel="noopener noreferrer"
-            title="Get the TryAIToday Flow Automator Chrome extension"
+            title="Get the Qorven Flow Automator Chrome extension"
           >
             <span className="ext-link__icon" aria-hidden="true">🧩</span>
             <span className="ext-link__text">Get the Extension</span>
